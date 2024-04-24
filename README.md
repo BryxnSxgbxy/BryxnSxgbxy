@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide" height="150" width="300px" alt="stats "  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide" height="150" width="900px" alt="stats "  />
 </div>
 
 ###
