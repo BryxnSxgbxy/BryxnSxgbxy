@@ -9,11 +9,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanSagbay&theme=dark&hide" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanSagbay&theme=dark&hide" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="180" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide"  alt="stats "  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide" height="210"  alt="stats "  />
 </div>
 
 ###
