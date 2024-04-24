@@ -1,12 +1,3 @@
-<style>
-        .y3-line {
-            position: absolute;
-            width: 100%;
-            height: 2px; /* Ancho de la línea */
-            background-color: red; /* Color de la línea */
-            top: calc(3 * 10%); /* Ajusta la posición vertical (y=3) multiplicando por la altura de tu gráfico */
-        }
-</style>
 
 # 💫 About Me:
 🔭 I am currently a student studying Software Engineering.<br>👯 I am looking to collaborate on various projects about business, billing, online stores, etc.<br>🤝 I am looking for help in improving the management of test architectures and implementations<br>🌱 I am currently improving my skills in Artificial Intelligence
@@ -22,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide" height="150" width="300" alt="stats "  />
 </div>
 
 ###
