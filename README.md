@@ -23,10 +23,10 @@
 ###
 
 
-### ✍️  Profile Status: 
+### ✍️  Profile Status:  
 
-<div align="right">
-  
+<div align="right"> 
+
 [![](https://img.shields.io/badge/Online-blue?logo=instatus)](https://img.shields.io/badge/Online-blue?logo=instatus)
 
 </div>
