@@ -23,8 +23,8 @@
 ###
 
 
-### ✍️  Status
-<div align="center">
+### ✍️  Profile Status:
+[![](https://img.shields.io/badge/instatus-green?logo=On-line)] 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
