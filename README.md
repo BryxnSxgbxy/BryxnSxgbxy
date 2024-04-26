@@ -24,7 +24,7 @@
 
 
 ### ✍️  Profile Status:
-[![](https://img.shields.io/badge/instatus-purple?logo=instatus)](https://img.shields.io/badge/instatus-purple?logo=instatus)
+[![](https://img.shields.io/badge/On-line-purple?logo=instatus)](https://img.shields.io/badge/On-line-purple?logo=instatus)
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
