@@ -23,7 +23,13 @@
 ###
 
 
-### ✍️  Profile Status: [![](https://img.shields.io/badge/Online-blue?logo=instatus)](https://img.shields.io/badge/Online-blue?logo=instatus)
+### ✍️  Profile Status: 
+
+<div align="right">
+  
+[![](https://img.shields.io/badge/Online-blue?logo=instatus)](https://img.shields.io/badge/Online-blue?logo=instatus)
+
+</div>
 
 <div align="center">
   
