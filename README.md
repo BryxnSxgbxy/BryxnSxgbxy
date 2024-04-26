@@ -23,8 +23,8 @@
 ###
 
 
-### ✍️  Profile Status:
-[![](https://img.shields.io/badge/Online-blue?logo=instatus)](https://img.shields.io/badge/Online-blue?logo=instatus)
+### ✍️  Profile Status: [![](https://img.shields.io/badge/Online-blue?logo=instatus)](https://img.shields.io/badge/Online-blue?logo=instatus)
+
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
