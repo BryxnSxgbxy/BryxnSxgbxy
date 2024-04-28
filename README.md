@@ -6,15 +6,6 @@
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brian.sagbay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-sagbay-1b9912267) 
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanSagbay&theme=dark&hide" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"  alt="stats" />
-</div>
-
 ###
 
 ### 💻 Technologies and Tools:
@@ -73,6 +64,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
+
+###
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanSagbay&theme=dark&hide" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"  alt="stats" />
+</div>
+
 
 
 
