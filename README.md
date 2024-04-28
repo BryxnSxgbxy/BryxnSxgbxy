@@ -84,10 +84,10 @@
 <div align="right"> 
   <a href="https://twitter.com/sagbay15130"  >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://discord.gg/GeqsYeGC" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="#">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
