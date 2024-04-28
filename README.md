@@ -1,5 +1,7 @@
 
-# 💫 About Me:
+  # 👋  I'm Bryan:
+
+### 💫 About Me:
 🔭 I am currently a student studying Software Engineering.<br>👯 I am looking to collaborate on various projects about business, billing, online stores, etc.<br>🤝 I am looking for help in improving the management of test architectures and implementations<br>🌱 I am currently improving my skills in Artificial Intelligence
 
 
@@ -8,7 +10,7 @@
 
 ###
 
-### 💻 Technologies and Tools:
+### 🛠️ Technologies and Tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
