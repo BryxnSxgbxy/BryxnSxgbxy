@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSagbay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"  alt="stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph" />
+  #<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSagbay&theme=dark&hide" height="150" alt="languages graph" />
 </div>
 
 ###
