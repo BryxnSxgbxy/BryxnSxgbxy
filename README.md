@@ -9,7 +9,6 @@
 
 ###
 
-
 ### 🛠️ Technologies and Tools:
 
 <div align="center">
