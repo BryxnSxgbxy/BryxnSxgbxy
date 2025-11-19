@@ -1,4 +1,5 @@
 # 👋  I'm Bryan:
+
 ### 💫 About Me:
 🔭 I am currently a Software Engineer.<br>👯I am looking to collaborate in several projects about business, billing, online stores, artificial intelligence, machine learning, <br>ㅤ data mining, etc.<br>🤝 I am looking for help to improve the management of test architectures and implementations.<br>🌱  I am currently improving my knowledge in Artificial Intelligence and data mining.
 
