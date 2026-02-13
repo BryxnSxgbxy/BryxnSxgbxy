@@ -1,12 +1,9 @@
 <h1 align="center">
   👨‍💻 ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
-  <a class="y-5" href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+</a>
 </h1>
-<p align="center">
-  <b>Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
-</p>
 
 <!-- ABOUT ME -->
 
