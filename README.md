@@ -3,11 +3,10 @@
   <a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
     <img 
       src="https://skillicons.dev/icons?i=linkedin&theme=dark"
-      style="vertical-align:middle;"
+      style="vertical-align:middle;" width="15" height="15"
     >
   </a>
 </h1>
-
 <p align="center">
   <b> Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
 </p>
