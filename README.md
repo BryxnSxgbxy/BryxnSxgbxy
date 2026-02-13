@@ -1,4 +1,9 @@
-<h1 align="center">Bryan Sagbay</h1>
+<h1 align="center">
+👨‍💻 Bryan Samaniego -
+<a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+</h1>
 <p align="center">
 Software Engineer | MSc Artificial Intelligence | Full Stack Developer
 </p>
@@ -14,7 +19,7 @@ With this profile, my goal is not only to share my projects but also to document
 </p>
 <div align="right">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brian.sagbay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-sagbay-1b9912267)
+
 
 </div>
 
