@@ -9,8 +9,7 @@ Software Engineer | MSc Artificial Intelligence | Full Stack Developer
 
 <!-- WHAT I BUILD -->
 <p align="left"> 
-I am currently a software engineer and am pursuing a master's degree in Artificial Intelligence. I am interested in both backend and frontend development, and I am currently focused on integrating AI solutions into the systems and projects I work on. I also specialize in process automation, including chatbot creation, as well as the development of websites, mobile applications, and fully functional web applications.
-
+I am currently a software engineer and am pursuing a master's degree in Artificial Intelligence. I am interested in both backend and frontend development, and I am currently focused on integrating AI solutions into the systems and projects I work on. I also specialize in process automation, including chatbot creation, as well as the development of websites, mobile applications, and fully functional web applications. <br>
 With this profile, my goal is not only to share my projects but also to document my progress and implement continuous improvement throughout my professional career.
 </p>
 <div align="right">
