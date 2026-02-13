@@ -1,5 +1,5 @@
 <h1 align="center">
-  ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
+  ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ - 
 <a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="15" height="15">
 </a>
