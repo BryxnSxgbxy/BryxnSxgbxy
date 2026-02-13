@@ -1,7 +1,7 @@
 <h1 align="center">
   ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
 <a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="20" height="20">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="18" height="18">
 </a>
 </h1>
 
