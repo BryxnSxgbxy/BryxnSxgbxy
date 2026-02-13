@@ -1,6 +1,6 @@
-<h1 align="center"> 👨‍💻 Bryan Samaniego <a  href="https://www.linkedin.com/in/bryan-sagbay-1b9912267"> <img class="mt-2" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> </h1>
+<h1 align="center">Bryan Sagbay <a  href="https://www.linkedin.com/in/bryan-sagbay-1b9912267"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> </h1>
 <p align="center">
-Software Engineer | MSc Artificial Intelligence | Full Stack Developer
+<b>Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
 </p>
 
 <!-- ABOUT ME -->
@@ -9,7 +9,7 @@ Software Engineer | MSc Artificial Intelligence | Full Stack Developer
 
 <!-- WHAT I BUILD -->
 <p align="left"> 
-I am currently a software engineer and am pursuing a master's degree in Artificial Intelligence. I am interested in both backend and frontend development, and I am currently focused on integrating AI solutions into the systems and projects I work on. I also specialize in process automation, including chatbot creation, as well as the development of websites, mobile applications, and fully functional web applications. <br>
+I am currently a software engineer and am pursuing a master's degree in Artificial Intelligence. I am interested in both backend and frontend development, focusing on integrating AI into the systems and projects I work on. I handle various processes, including the creation of chatbots, websites, mobile applications, and web applications.
 With this profile, my goal is not only to share my projects but also to document my progress and implement continuous improvement throughout my professional career.
 </p>
 <div align="right">
