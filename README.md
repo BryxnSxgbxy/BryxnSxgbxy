@@ -1,7 +1,10 @@
 <h1 align="center">
 👨‍💻 Bryan Samaniego
-<a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
+<a class="mt-1" href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a class="mt-1" href="https://instagram.com/brian.sagbay">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
 </a>
 </h1>
 <p align="center">
