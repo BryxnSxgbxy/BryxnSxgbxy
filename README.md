@@ -1,7 +1,7 @@
 <h1 align="center">
-  👨‍💻 ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
+  ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
 <a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="20" height="20">
 </a>
 </h1>
 
