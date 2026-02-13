@@ -1,15 +1,14 @@
 <h1 align="center">
   ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
-  <a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
+</h1>
+
+<p align="center">
+  <b><a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"
       style="vertical-align:middle;"
     >
-  </a>
-</h1>
-
-<p align="center">
-  <b>| Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
+  </a> | Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
 </p>
 
 <!-- ABOUT ME -->
