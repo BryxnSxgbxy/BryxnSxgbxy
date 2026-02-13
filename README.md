@@ -1,11 +1,22 @@
 <h2 align="center">👨‍💻 Bryan Samaniego - Sagbx </h2>
 
 <div align="center">
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/BryanSagbay">
-  <img height="15" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=25&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" alt="Typing SVG" />
-</a>
+
+<picture>
+  <!-- MODO OSCURO → TEXTO BLANCO -->
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
+
+  <!-- MODO CLARO → TEXTO NEGRO -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
+
+  <!-- fallback -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
+</picture>
+
 </div>
+
 
 
 <!-- ABOUT ME -->
