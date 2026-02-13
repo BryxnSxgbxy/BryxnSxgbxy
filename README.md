@@ -5,7 +5,9 @@
 </a>
 </h1>
 
-
+<p align="center">
+  <b>Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
+</p>
 <!-- ABOUT ME -->
 
 <h3 align="left"> hey there 👋</h3>
