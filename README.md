@@ -3,16 +3,17 @@
 <div align="center">
 
 <picture>
-  <!-- MODO OSCURO → TEXTO BLANCO -->
+  <!-- 🌙 Dark mode → texto blanco -->
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=25&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
 
-  <!-- MODO CLARO → TEXTO NEGRO -->
+  <!-- ☀️ Light mode → texto negro -->
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=25&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
 
   <!-- fallback -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
+  <img height="21"
+       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=25&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" />
 </picture>
 
 </div>
