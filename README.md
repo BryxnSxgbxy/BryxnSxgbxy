@@ -1,13 +1,4 @@
-<h1 align="center">👨‍💻 Bryan Samaniego</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-<a href="https://instagram.com/brian.sagbay">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
-</a>
-</p>
-
+<h1 align="center"> 👨‍💻 Bryan Samaniego <a class="mt-2" href="https://www.linkedin.com/in/bryan-sagbay-1b9912267"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> </h1>
 <p align="center">
 Software Engineer | MSc Artificial Intelligence | Full Stack Developer
 </p>
