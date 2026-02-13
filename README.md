@@ -1,13 +1,14 @@
 <h1 align="center">
-  ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ - 
-<a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="15" height="15">
-</a>
+👨‍💻  ʙʀʏᴀɴ ꜱᴀɢʙᴀʏ 
 </h1>
 
 <p align="center">
-  <b>Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
+<a href="https://www.linkedin.com/in/bryan-sagbay-1b9912267">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="15" height="15">
+</a>
+  <b>| Software Engineer | MSc Artificial Intelligence | Full Stack Developer</b>
 </p>
+
 <!-- ABOUT ME -->
 
 <h3 align="left"> hey there 👋</h3>
