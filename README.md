@@ -3,7 +3,7 @@
 <div align="center">
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/BryanSagbay">
-  <img height="15" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=25&size=22&duration=3000&pause=800&color=24292F&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" alt="Typing SVG" />
+  <img height="15" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=25&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=600&lines=MSc+Artificial+Intelligence;Software+Engineer;Full+Stack+Developer;Always+building+something+new+%E2%9A%A1" alt="Typing SVG" />
 </a>
 </div>
 
