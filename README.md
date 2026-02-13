@@ -1,6 +1,4 @@
 <h1 align="center">Bryan Sagbay</h1>
-
----
 <p align="center">
 Software Engineer | MSc Artificial Intelligence | Full Stack Developer
 </p>
