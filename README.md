@@ -1,6 +1,4 @@
-
-
-<h2 align="center">👨‍💻 Bryan Samaniego - Sxgbxy </h2>
+<h2 align="center">👨‍💻 Bryan Samaniego - Sgbxy </h2>
 
 <div align="center">
 <!-- TYPING ANIMATION -->
@@ -39,3 +37,7 @@ With this profile, my goal is not only to share my projects but also to document
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+<div align="center">
+  <sub>⚡ Crafted with passion by <a href="https://github.com/BryanSagbay">BryanSagbay</a> · Let's build something extraordinary</sub>
+</div>
