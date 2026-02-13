@@ -19,16 +19,12 @@ I also specialize in process automation, including chatbot creation, as well as 
 
 With this profile, my goal is not only to share my projects but also to document my progress and implement continuous improvement throughout my professional career.
 
-
-
 <div align="right">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brian.sagbay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-sagbay-1b9912267)
 
 </div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
