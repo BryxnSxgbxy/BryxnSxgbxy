@@ -41,4 +41,4 @@ With this profile, my goal is not only to share my projects but also to document
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7287b,100:7c3aed&height=120&section=footer&animation=fadeIn"/>
